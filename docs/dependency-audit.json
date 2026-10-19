@@ -2,11 +2,11 @@
   "checked": "2026-10-19",
   "summary": {
     "info": 0,
-    "low": 8,
+    "low": 7,
     "moderate": 31,
-    "high": 71,
-    "critical": 3,
-    "total": 113
+    "high": 48,
+    "critical": 0,
+    "total": 86
   },
-  "note": "Audit snapshot; dependencies can acquire new advisories. No forced major upgrades applied."
+  "note": "Compatible fixes applied; critical advisories removed from this audit snapshot. Remaining transitive advisories require dedicated upgrades; no forced changes."
 }

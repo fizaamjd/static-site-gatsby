@@ -32,3 +32,5 @@ npm run build
 - [License scope](docs/license-scope.md)
 
 Original coursework history and contributors are preserved.
+
+The inherited `/using-ssr/` example requires a server runtime; GitHub Pages serves only generated static routes. It is retained as a framework demonstration, not presented as a working Pages route.
